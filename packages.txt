@@ -1,5 +1,5 @@
 https://registry.npmjs.org/@date-io/core/-/core-2.17.0.tgz
 https://registry.npmjs.org/@date-io/date-fns/-/date-fns-2.17.0.tgz
 https://registry.npmjs.org/@date-io/moment/-/moment-2.17.0.tgz
-https://registry.npmjs.org/commander/-/commander-2.20.3.tgz
+https://registry.npmjs.org/commander/-/commander-14.0.3.tgz
 https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz
