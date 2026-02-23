@@ -19,6 +19,8 @@ jobs:
 
       - uses: actions/setup-node@v6
 
+      - run: npm ci
+
       - name: Generate packages.txt
         run: npm list --all --json --long | jq -r '.. | .resolved? // empty' | sort -u | tee packages.txt
 
