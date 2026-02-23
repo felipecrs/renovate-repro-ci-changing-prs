@@ -1,5 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:recommended"],
-  "enabledManagers": ["npm"]
+  "gitIgnoredAuthors": ["github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"]
 }
